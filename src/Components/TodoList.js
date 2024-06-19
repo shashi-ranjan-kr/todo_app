@@ -22,7 +22,7 @@ function TodoList() {
   });
 
    // need state to keep track of the value in the input
-   const [todo, setTodo] = useState("");
+  //  const [todo, setTodo] = useState("");
 
    // useEffect to run once the component mounts
    useEffect(() => {
